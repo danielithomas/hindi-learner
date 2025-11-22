@@ -16,6 +16,12 @@ I have called my project Hindi Guru and this is a link to the prompt I am using.
 
 I've made a lot of assumptions. One of the few benefits of Duolingo was that I can actually read and sound out most words written in "Devanagari". However I have this script and the Romanised version (Hindi written in latin characters). 
 
+## Words and Phrases
+
+1. [Hindi Words](words/words.md)
+1. [Hindi Phrases](phrases/phrases.md)
+
 ## Lessons
 
 Every time I have a question, it becomes a "lesson". Here are my lessons:
+
