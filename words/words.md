@@ -25,3 +25,16 @@
 |समझ|samajh|understand/understanding|[🔊 samajh](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B8%E0%A4%AE%E0%A4%9D&op=translate)|
 |गया|gaya|went/happened (masculine)|[🔊 gaya](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%97%E0%A4%AF%E0%A4%BE&op=translate)|
 |गयी|gayi|went/happened (feminine)|[🔊 gayi](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%97%E0%A4%AF%E0%A5%80&op=translate)|
+|कितने|kitne|how many|[🔊 kitne](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%A8%E0%A5%87&op=translate)|
+|आदमी|aadmi|man/men/people|[🔊 aadmi](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%86%E0%A4%A6%E0%A4%AE%E0%A5%80&op=translate)|
+|थे|the|were (plural past tense)|[🔊 the](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%A5%E0%A5%87&op=translate)|
+|दो|do|two|[🔊 do](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%A6%E0%A5%8B&op=translate)|
+|सरकार|sarkar|sir/master/government|[🔊 sarkar](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0&op=translate)|
+|और|aur|and|[🔊 aur](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%94%E0%A4%B0&op=translate)|
+|तुम|tum|you (informal)|[🔊 tum](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%A4%E0%A5%81%E0%A4%AE&op=translate)|
+|तीन|teen|three|[🔊 teen](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%A4%E0%A5%80%E0%A4%A8&op=translate)|
+|भी|bhi|also/even/still|[🔊 bhi](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%AD%E0%A5%80&op=translate)|
+|लौट|laut|return (verb root)|[🔊 laut](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B2%E0%A5%8C%E0%A4%9F&op=translate)|
+|आये|aaye|came (past tense)|[🔊 aaye](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%86%E0%A4%8F&op=translate)|
+|खाली|khaali|empty|[🔊 khaali](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%96%E0%A4%BE%E0%A4%B2%E0%A5%80&op=translate)|
+|हाथ|haath|hand/hands|[🔊 haath](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B9%E0%A4%BE%E0%A4%A5&op=translate)|
