@@ -13,3 +13,7 @@
 |फिर से बोलिए|phir se boliye|Please say again|[🔊 phir se boliye](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%AB%E0%A4%BF%E0%A4%B0%20%E0%A4%B8%E0%A5%87%20%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A4%BF%E0%A4%8F&op=translate)|
 |समझ गया|samajh gaya|I understood (male speaker)|[🔊 samajh gaya](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B8%E0%A4%AE%E0%A4%9D%20%E0%A4%97%E0%A4%AF%E0%A4%BE&op=translate)|
 |समझ गयी|samajh gayi|I understood (female speaker)|[🔊 samajh gayi](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B8%E0%A4%AE%E0%A4%9D%20%E0%A4%97%E0%A4%AF%E0%A5%80&op=translate)|
+|कितने आदमी थे?|kitne aadmi the?|How many men were there?|[🔊 kitne aadmi the?](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%A8%E0%A5%87%20%E0%A4%86%E0%A4%A6%E0%A4%AE%E0%A5%80%20%E0%A4%A5%E0%A5%87%3F&op=translate)|
+|फिर भी|phir bhi|still/nevertheless/even then|[🔊 phir bhi](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%AB%E0%A4%BF%E0%A4%B0%20%E0%A4%AD%E0%A5%80&op=translate)|
+|लौट आये|laut aaye|returned/came back|[🔊 laut aaye](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B2%E0%A5%8C%E0%A4%9F%20%E0%A4%86%E0%A4%8F&op=translate)|
+|खाली हाथ|khaali haath|empty-handed|[🔊 khaali haath](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%96%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%B9%E0%A4%BE%E0%A4%A5&op=translate)|

@@ -26,3 +26,4 @@ I've made a lot of assumptions. One of the few benefits of Duolingo was that I c
 Every time I have a question, it becomes a "lesson". Here are my lessons:
 
 1. [Asking "What's the word for...?" in Hindi](lessons/asking-what-is-word-20251122.md) - Learn the essential meta-linguistic question pattern for vocabulary building
+2. [The Famous Gabbar Dialogue from Sholay](lessons/sholay-gabbar-dialogue-20251122.md) - Learn conversational Hindi through Bollywood's most iconic dialogue
