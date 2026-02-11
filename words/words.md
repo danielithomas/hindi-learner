@@ -92,3 +92,17 @@
 |सलाद|salaad|salad|[🔊 salaad](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%A6&op=translate)|
 |स्वादिष्ट|swaadisht|delicious|[🔊 swaadisht](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F&op=translate)|
 |हाँ|haan|yes|[🔊 haan](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B9%E0%A4%BE%E0%A4%81&op=translate)|
+|आज|aaj|today|[🔊 aaj](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%86%E0%A4%9C&op=translate)|
+|काम|kaam|work|[🔊 kaam](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%BE%E0%A4%AE&op=translate)|
+|शाम|shaam|evening|[🔊 shaam](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B6%E0%A4%BE%E0%A4%AE&op=translate)|
+|आराम|aaram|rest/relaxation|[🔊 aaram](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%86%E0%A4%B0%E0%A4%BE%E0%A4%AE&op=translate)|
+|करूँगा|karunga|I will do (male)|[🔊 karunga](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%B0%E0%A5%82%E0%A4%81%E0%A4%97%E0%A4%BE&op=translate)|
+|करूँगी|karungi|I will do (female)|[🔊 karungi](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%B0%E0%A5%82%E0%A4%81%E0%A4%97%E0%A5%80&op=translate)|
+|करोगे|karoge|you will do (informal, male)|[🔊 karoge](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%87&op=translate)|
+|करोगी|karogi|you will do (informal, female)|[🔊 karogi](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%80&op=translate)|
+|करेंगे|karenge|you will do (formal)/they will do|[🔊 karenge](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%97%E0%A5%87&op=translate)|
+|शुभ|shubh|good/auspicious|[🔊 shubh](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B6%E0%A5%81%E0%A4%AD&op=translate)|
+|रात्रि|raatri|night (formal)|[🔊 raatri](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF&op=translate)|
+|सुबह|subah|morning|[🔊 subah](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B8%E0%A5%81%E0%A4%AC%E0%A4%B9&op=translate)|
+|प्लान|plan|plan|[🔊 plan](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%A8&op=translate)|
+|करना|karna|to do|[🔊 karna](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE&op=translate)|
