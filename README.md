@@ -29,3 +29,4 @@ Every time I have a question, it becomes a "lesson". Here are my lessons:
 2. [The Famous Gabbar Dialogue from Sholay](lessons/sholay-gabbar-dialogue-20251122.md) - Learn conversational Hindi through Bollywood's most iconic dialogue
 3. [Having a Meal - Mealtime Conversations](lessons/meal-conversations-20251224.md) - Essential vocabulary and phrases for eating with family
 4. [Evening Plans & Future Tense](lessons/evening-plans-future-tense-20260211.md) - Talking about rest, work, and mastering करूँगा vs करोगे
+5. [Building a New House](lessons/building-new-house-20260212.md) - Future plans, construction vocabulary, and verb conjugation with हम
