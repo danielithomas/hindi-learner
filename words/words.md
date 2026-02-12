@@ -106,3 +106,16 @@
 |सुबह|subah|morning|[🔊 subah](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B8%E0%A5%81%E0%A4%AC%E0%A4%B9&op=translate)|
 |प्लान|plan|plan|[🔊 plan](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%A8&op=translate)|
 |करना|karna|to do|[🔊 karna](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE&op=translate)|
+|घर|ghar|house/home|[🔊 ghar](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%98%E0%A4%B0&op=translate)|
+|नया|naya|new (masculine)|[🔊 naya](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%A8%E0%A4%AF%E0%A4%BE&op=translate)|
+|नई|nayi|new (feminine)|[🔊 nayi](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%A8%E0%A4%88&op=translate)|
+|सपना|sapna|dream|[🔊 sapna](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A4%BE&op=translate)|
+|बनाना|banana|to build/make|[🔊 banana](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BE&op=translate)|
+|बनाऊँगा|banaunga|I will build (male)|[🔊 banaunga](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8A%E0%A4%81%E0%A4%97%E0%A4%BE&op=translate)|
+|बनाएँगे|banayenge|we will build|[🔊 banayenge](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81%E0%A4%97%E0%A5%87&op=translate)|
+|जल्दी|jaldi|soon/quickly|[🔊 jaldi](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%9C%E0%A4%B2%E0%A5%8D%E0%A4%A6%E0%A5%80&op=translate)|
+|दिन|din|day|[🔊 din](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%A6%E0%A4%BF%E0%A4%A8&op=translate)|
+|कैसा|kaisa|how (masculine)|[🔊 kaisa](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A4%BE&op=translate)|
+|रहा|raha|was/remained|[🔊 raha](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B0%E0%A4%B9%E0%A4%BE&op=translate)|
+|ठीक|theek|okay/fine/correct|[🔊 theek](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%A0%E0%A5%80%E0%A4%95&op=translate)|
+|लगना|lagna|to feel/seem|[🔊 lagna](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B2%E0%A4%97%E0%A4%A8%E0%A4%BE&op=translate)|
