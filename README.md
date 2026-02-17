@@ -30,3 +30,4 @@ Every time I have a question, it becomes a "lesson". Here are my lessons:
 3. [Having a Meal - Mealtime Conversations](lessons/meal-conversations-20251224.md) - Essential vocabulary and phrases for eating with family
 4. [Evening Plans & Future Tense](lessons/evening-plans-future-tense-20260211.md) - Talking about rest, work, and mastering करूँगा vs करोगे
 5. [Building a New House](lessons/building-new-house-20260212.md) - Future plans, construction vocabulary, and verb conjugation with हम
+6. [Teamwork & Projects](lessons/teamwork-and-projects-20260217.md) - Working together, करूँगा vs करेंगे, and the पर postposition

@@ -119,3 +119,8 @@
 |रहा|raha|was/remained|[🔊 raha](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B0%E0%A4%B9%E0%A4%BE&op=translate)|
 |ठीक|theek|okay/fine/correct|[🔊 theek](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%A0%E0%A5%80%E0%A4%95&op=translate)|
 |लगना|lagna|to feel/seem|[🔊 lagna](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B2%E0%A4%97%E0%A4%A8%E0%A4%BE&op=translate)|
+|पर|par|on (postposition)|[🔊 par](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%AA%E0%A4%B0&op=translate)|
+|कम|kam|less / fewer|[🔊 kam](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%95%E0%A4%AE&op=translate)|
+|साथ|saath|together / with|[🔊 saath](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%B8%E0%A4%BE%E0%A4%A5&op=translate)|
+|मिलकर|milkar|together (doing jointly)|[🔊 milkar](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%95%E0%A4%B0&op=translate)|
+|थकान|thakaan|tiredness|[🔊 thakaan](https://translate.google.com/?sl=hi&tl=en&text=%E0%A4%A5%E0%A4%95%E0%A4%BE%E0%A4%A8&op=translate)|
