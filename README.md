@@ -32,3 +32,4 @@ Every time I have a question, it becomes a "lesson". Here are my lessons:
 5. [Building a New House](lessons/building-new-house-20260212.md) - Future plans, construction vocabulary, and verb conjugation with हम
 6. [Teamwork & Projects](lessons/teamwork-and-projects-20260217.md) - Working together, करूँगा vs करेंगे, and the पर postposition
 7. [Past Tense with Karna](lessons/past-tense-karna-20260219.md) - काम करना across all tenses, the ergative case (मैं → मैंने), and self-correcting tense mistakes
+8. [Liking & Preferences](lessons/liking-and-preferences-20260314.md) - The dative "मुझे पसंद" pattern, superlatives with सबसे, and why "I like" flips in Hindi
